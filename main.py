@@ -139,6 +139,8 @@ st.markdown("""
 <p>Passionate about AI, Web & App Development, Open Source Contributor</p>
 </div>
 """, unsafe_allow_html=True)
+st.image("rayhan.jpg", caption="My Profile", width=250)
+
 
 # ------------------------------
 # Skills
@@ -184,4 +186,5 @@ st.markdown("""
 # ------------------------------
 # Footer
 st.markdown("<div class='footer'>Copyright © 2025 | Rayhan Hussain</div>", unsafe_allow_html=True)
+
 
