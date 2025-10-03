@@ -134,7 +134,7 @@ st.markdown("""
 # Profile Card
 st.markdown("""
 <div class="profile-card">
-<img src="your_image.jpg" alt="Profile">
+<img src="photo.jpg" alt="Profile">
 <h2>Rayhan Hussain</h2>
 <p>Passionate about AI, Web & App Development, Open Source Contributor</p>
 </div>
@@ -184,3 +184,4 @@ st.markdown("""
 # ------------------------------
 # Footer
 st.markdown("<div class='footer'>Copyright © 2025 | Rayhan Hussain</div>", unsafe_allow_html=True)
+
